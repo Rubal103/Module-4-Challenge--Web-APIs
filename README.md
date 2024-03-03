@@ -8,7 +8,7 @@
 ![End of the quiz](./assets/images/endQuiz.png)
 ![scores in local storage](./assets/images/localStorage.png)
 
-link to live website: https://github.com/Rubal103/Module-4-Challenge--Web-APIs/settings/pages
+link to live website: https://rubal103.github.io/Module-4-Challenge--Web-APIs/
 link to github repository: https://github.com/Rubal103/Module-4-Challenge--Web-APIs
 
 
